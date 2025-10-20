@@ -76,3 +76,46 @@ Python for scripting and preprocessing
 OpenCV for image manipulation
 
 Google Colab for model training and experimentation
+For eg:
+
+### 1. Example: A news in Jammu
+
+This image has one **Image Area** and one **Text Area**.  
+The output image shows bounding boxes around each detected area.
+
+#### 🔹 Input Image:
+![Jammu](https://github.com/user-attachments/assets/c456f72f-fb25-407b-8d05-8d7c3142345a)
+
+
+#### 🔹 Output with Bounding Boxes:
+![result_Jammu](https://github.com/user-attachments/assets/e4b8fe62-fce2-4217-8fde-09c996ef7020)
+
+### 2. Example: A news in Kolhapur
+
+This image has one **Image Area** and 3 **Text Areas**.  
+The output image shows bounding boxes around each detected area.
+
+#### 🔹 Input Image:
+![68952bcb44f97](https://github.com/user-attachments/assets/af732eef-6b28-4489-a6be-bcd8d5153c0b)
+
+
+#### 🔹 Output with Bounding Boxes:
+![result_68952bcb44f97](https://github.com/user-attachments/assets/8addde6b-d947-43cd-89fd-1a801a3f7ba5)
+
+### 3. Example: A news in Amababai Temple in Kolhapur
+
+This image has 2 **Image Area** and 3 **Text Areas**.  
+The output image shows bounding boxes around each detected area.
+
+#### 🔹 Input Image:
+![Ambabai_original](https://github.com/user-attachments/assets/8b305071-f96e-4f63-bcdf-aad452a82bfe)
+
+
+
+#### 🔹 Output with Bounding Boxes:
+![annotated_Ambabai_original](https://github.com/user-attachments/assets/d10aef0f-b6e5-4003-8032-a666bc81fa08)
+
+
+
+
+

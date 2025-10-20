@@ -1,0 +1,15 @@
+path: /content/yolo_news_detector/dataset # root data
+
+# Train/Val/Test directories (relative to 'path')
+train: images/train # training images
+val: images/val
+# validation images 
+# test images (optional)
+
+nc: 4 
+
+names:
+ 0: ImageArea
+ 1: TitleArea
+ 2: SubTitleArea
+ 3: TextAreas
